@@ -1,0 +1,245 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.line{
+    width: 100%;
+    height: 10px;
+    background-color: #fe40a0;
+}
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: #FFFF;
+}
+.brlogo1{
+    width: 60px;
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.button :hover{
+color: #fe40a0;
+}
+.button input{
+    margin-left: 29px;
+    margin-top: 26px;
+    font-size: 16px;
+    border: 0px;
+    background-color: white;
+    cursor: pointer;
+
+}
+.endl{
+    margin-top: 8px;
+    margin-left: 345px;
+   height: 56px;
+   width: 317px;
+}
+.second{
+    width: 100%;
+    height: 415px;
+    background-color: #a5dad0;
+}
+.slide1{
+    margin-top: 55px;
+    margin-left: 286px;
+    height: 126px;
+    width: 380px;
+}
+.slide2{
+    margin-left: 286px;
+}
+.menu{
+    width: 100%;
+    height: 160px;
+    background: white;
+}
+.menu h1{
+    color: #002680;
+    padding-top: 51px;
+    margin-left: 620px;
+    font-size: 49px;
+    font-weight: 700;
+}
+.msg{
+    background-color: rgb(254, 64, 160);
+    width: 52px;
+    height: 52px;
+    cursor: pointer;
+    margin-top: -98px;
+    margin-left: 1450px;
+    border-radius: 40px;
+    position: fixed;
+}  
+.msg svg{
+    margin-top: 12px;
+    margin-left: 12px;
+} 
+.ice1{
+    padding-left: 93px;
+    cursor: pointer;
+} 
+.ice2{
+    padding-left: 63px;
+    height: 400px;
+    width: 400px;
+    cursor: pointer;
+}
+.ice3{
+    padding-left: 63px;
+    height: 400px;
+    width: 400px;
+    cursor: pointer;
+}
+.combos h4{
+    padding-left: 183px;
+    padding-top: 10px;
+    color: #005ea6;
+    cursor: pointer;
+}
+.next{
+    width: 100%;
+    height: 215px;
+}
+.next input{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(254, 64, 160);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border: 0px;
+    margin-top: 55px;
+    margin-left: 602px;
+    cursor: pointer;
+}
+.next h1{
+    margin-left: 595px;
+    margin-top: 35px;
+    font-size: 45px;
+    color: #002680;
+}
+.banner{
+    margin-left: 122px;
+    cursor: pointer;
+}
+.banner2{
+    margin-left: 65px;
+    cursor: pointer;
+}
+.flavour{
+    width: 100%;
+    height: 730px;
+    background-image: url(fl_bg.png);
+}
+.flav{
+    padding-top: 104px;
+    margin-left: 612px;
+    font-size: 40px;
+    color: #002680;
+    
+}
+.fimage img{
+    margin-top: 105px;
+    margin-left: 42px;
+}
+.fruits10{
+    position: absolute;
+    top: 2215px;
+    left: 207px;
+}
+.fruits20{
+    position: absolute;
+    top: 2215px;
+    left: 691px;
+}
+.fruits30{
+    position: absolute;
+    top: 2215px;
+    left: 1200px;
+}
+.story{
+    padding-top: 104px;
+    margin-left: 612px;
+    font-size: 30px;
+    color: #fe419f;
+
+}
+.line1{
+    width: 42%;
+    height: 100px;
+}
+.line1 hr{
+    margin-top: 9px;
+
+}
+.fullblue{
+    width: 100%;
+    height: 100px;
+    background-color: #002680;
+}
+.fullblue img{
+    width: 170px;
+    height: 52px;
+    margin-left: 615px;
+    margin-top: 24px;
+}
+.final{
+    width: 100%;
+    height: 400px;
+    margin-top: 33px;
+}
+.final1 a{
+    color: #fe419f;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.final1 pre{
+    margin-left: 50px;
+    font-size: 15px;
+}
+.final1 input{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    margin-left: 50px;
+}
+.final2 a{
+    color: #fe419f;
+    font-size: 20px;
+    margin-left: 183px;
+}
+.final2 pre{
+    margin-left: 183px;
+    font-size: 15px;
+    margin-top: -19px;
+    cursor: pointer;
+}
+.final3 a{
+    color: #fe419f;
+    font-size: 20px;
+    margin-left: 183px;
+}
+.final3 pre{
+    margin-left: 183px;
+    font-size: 15px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.final4 pre{
+    margin-left: 183px;
+    font-size: 16px;
+    margin-top: 38px;
+    cursor: pointer;
+    float: left;
+}
+.final4 img{
+    margin-top: 26px;
+    cursor: pointer;
+    margin-left: 14px;
+}
+.credit p{
+    margin-top: -45px;
+    margin-left: 645px;
+}
